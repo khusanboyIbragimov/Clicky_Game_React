@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "clicked": false,
+        "image": "https://i1.wp.com/www.geek-programmer.com/wp-content/uploads/2017/02/why-java-is-top-featured.png"
+    },
+    {
+        "id": 2,
+        "clicked": false,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/2000px-ISO_C%2B%2B_Logo.svg.png"
+    },
+    {
+        "id": 3,
+        "clicked": false,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png"
+    },
+    {
+        "id": 4,
+        "clicked": false,
+        "image": "https://www.gaslampmedia.com/media/bootstrap.png"
+    },
+    {
+        "id": 5,
+        "clicked": false,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/2000px-Python-logo-notext.svg.png"
+    },
+    {
+        "id": 6,
+        "clicked": false,
+        "image": "http://pluspng.com/img-png/nodejs-logo-vector-png-kirkstrobeck-commented-on-oct-20-2015-1085.png"
+    },
+    {
+        "id": 7,
+        "clicked": false,
+        "image": "http://pluspng.com/img-png/jquery-logo-png--800.gif"
+    },
+    {
+        "id": 8,
+        "clicked": false,
+        "image": "https://www.aboutfase.com/wp-content/uploads/2015/05/sequelize-logo.png"
+    },
+    {
+        "id": 9,
+        "clicked": false,
+        "image": "https://4.bp.blogspot.com/--Z5v7xegyqo/V7dfGK3bB9I/AAAAAAAAAoI/AVzWTdOoTvQvr3u3k3qfzv3fzonvdwvVwCEw/s1600/image1233.png"
+    },
+    {
+        "id": 10,
+        "clicked": false,
+        "image": "http://www.unixstickers.com/image/cache/data/stickers/react/badge/React-JS.sh-600x600.png"
+    },
+    {
+        "id": 11,
+        "clicked": false,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2000px-HTML5_logo_and_wordmark.svg.png"
+    },
+    {
+        "id": 12,
+        "clicked": false,
+        "image": "http://3.bp.blogspot.com/-OOOHj-JFYic/UXBzdLI9KKI/AAAAAAAAABQ/-3lO_BSiPeA/s1600/CSS3.png"
+    }
+]

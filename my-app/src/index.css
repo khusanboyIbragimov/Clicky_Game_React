@@ -1,0 +1,46 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  }
+.navbar {
+  background: #5133a4;
+  /* min-height: 70px; */
+  position: fixed;
+  width: 100%;
+  -webkit-box-shadow: 0 14px 28px rgba(0,0,0,.25), 0 10px 10px rgba(0,0,0,.22);
+  box-shadow: 0 14px 28px rgba(0,0,0,.25), 0 10px 10px rgba(0,0,0,.22);
+  color: #fff;
+  /* font-size: calc(10px + 14 * (100vw - 320px)/ 800); */
+   z-index: 99;
+  white-space: nowrap;
+}
+.header {
+  background-color: #5b5f66;
+  min-height: 400px;
+  padding: 180px 20px;
+  padding-bottom: 140px;
+  text-align: center;
+  background-image: url('https://cdn-images-1.medium.com/max/1000/1*jbpCyRmogQMnEhex2yea3w.png');
+  
+}
+.App{
+  margin-top: 40px;
+}
+.header h1, h2{
+color: white;
+font-size: 40px;
+opacity: unset;
+font-weight: bold;
+text-shadow: 0 14px 28px rgba(0, 0, 0, .25);  
+}
+.img-thumbnail{
+  border: 5px solid #5133a4;
+  box-shadow: 0 14px 28px rgba(0,0,0,.25), 0 10px 10px rgba(0,0,0,.22);
+}
+.imageDiv button:hover{
+transform: scale(1.1);
+}
+.imageDiv button:active{
+  transform: translateY(4px);
+  }
