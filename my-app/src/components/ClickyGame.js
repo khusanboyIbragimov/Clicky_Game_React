@@ -61,15 +61,15 @@ class ClickyGame extends Component {
                 })
             }
         } 
-        if (this.state.score === 12) {
-            return this.setState({
-                statesImages: shuffleImages(this.state.statesImages),
-                score: 0,
-                topScore: 0,
-                statesImages: images,
-                message: "You Win!!"
-            })
-        }
+        // if (this.state.score === 12) {
+        //     return this.setState({
+        //         statesImages: shuffleImages(this.state.statesImages),
+        //         score: 0,
+        //         topScore: 0,
+        //         statesImages: images,
+        //         message: "You Win!!"
+        //     })
+        // }
     }
 
     render() {
