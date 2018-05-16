@@ -3,6 +3,7 @@ body {
   padding: 0;
   font-family: sans-serif;
   }
+
 .navbar {
   background: #5133a4;
   /* min-height: 70px; */
@@ -15,7 +16,18 @@ body {
    z-index: 99;
   white-space: nowrap;
 }
-.header {
+
+.title {
+  font-size: 40px;
+  font-weight: bold;
+}
+
+footer {
+  background: #5133a4;
+  color: white;
+  }
+
+header {
   background-color: #5b5f66;
   min-height: 400px;
   padding: 180px 20px;
@@ -24,23 +36,28 @@ body {
   background-image: url('https://cdn-images-1.medium.com/max/1000/1*jbpCyRmogQMnEhex2yea3w.png');
   
 }
-.App{
+
+.App {
   margin-top: 40px;
 }
-.header h1, h2{
+
+.header {
 color: white;
-font-size: 40px;
+/* font-size: 30px; */
 opacity: unset;
 font-weight: bold;
 text-shadow: 0 14px 28px rgba(0, 0, 0, .25);  
 }
-.img-thumbnail{
+
+.img-thumbnail {
   border: 5px solid #5133a4;
   box-shadow: 0 14px 28px rgba(0,0,0,.25), 0 10px 10px rgba(0,0,0,.22);
 }
-.imageDiv button:hover{
+
+.imageDiv button:hover {
 transform: scale(1.1);
 }
-.imageDiv button:active{
+
+.imageDiv button:active {
   transform: translateY(4px);
   }
